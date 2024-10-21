@@ -1,0 +1,27 @@
+                      <div class="cards">
+                        <div class="card-about" id="company">
+                          <h1>NovaSpear</h1>
+                          <h3>Is a leading technology company
+                            providing advanced technology services in all areas of technology.
+                             It aims to meet customer needs and achieve sustainable success in the digital age through its commitment to innovation, experience and excellence.</h3>
+                        </div>
+                        
+                        <div class="card-about" id="adv-ser">
+                          <h1>NovaSpear offers</h1>
+                          <h3>A wide range of advanced technology services, ranging from specialized consulting and in-demand specializations to specialized software and user interface development. The company provides integrated solutions based on information architecture for information technology, network management systems and cyber understanding.</h3>
+                        </div>
+                        
+                        <div class="card-about" id="team">
+                          <h1>NovaSpear is proud</h1>
+                          <h3>
+                            With a team of highly skilled engineers and developers specialized in software development, website design and development, cloud storage solutions, artificial intelligence, and cybersecurity.
+                          </h3>
+                        </div>
+                      </div>
+                      <a href="#0"> 
+                        <button>
+                        <span class="box" id="about-btn">
+                            Why NovaSpear?
+                        </span>
+                    </button>
+                      </a>

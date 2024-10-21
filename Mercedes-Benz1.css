@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+header {
+    background-image: linear-gradient(135deg, #000000 5%, #9708cc 150%);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+
+.logo {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 1.8em;
+
+
+}
+
+
+
+.navigation a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 0.9em;
+    padding-left: 20px;
+}
+
+
+
+.navigation a:hover {
+    color: #1f1e1e;
+}
+
+section {
+    padding: 250px 150px;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(img/Mercedes\ gif@@@@@.gif) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.main h2 {
+    color: rgb(255, 255, 255);
+    font-size: 1.6em;
+    font-weight: 900;
+    text-transform: uppercase;
+
+}
+
+
+.main-btn {
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 200;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    border-radius: 15px;
+    margin-bottom: 0.1px;
+    transition: 0.9s ease;
+}
+
+.main-btn:hover {
+    background-color: rgb(47, 46, 46);
+    transform: scale(1.1);
+
+}
+
+.social-icons a {
+    color: rgb(244, 244, 244);
+    font-size: 1.7em;
+    padding-right: 30px;
+
+}
+
+/*-----------------------------------------------------------*/
+.cards {
+    background-image: linear-gradient(135deg, #000000 35%, #9708cc 150%);
+
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card-1 {
+    background-color: #ffffff44;
+    width: 21.25em;
+    box-shadow: 0 5px 25px rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px;
+    transition: 0.9s ease;
+}
+
+:-ms-fullscreen .card-1:hover {
+    transform: scale(1.1);
+}
+
+.info-1 {
+    text-align: center;
+}
+
+.info-1 h3 {
+    color: rgb(26, 5, 5);
+    font-size: 2.2em;
+    font-weight: 700;
+    margin: 10px;
+}
+
+/*------------------------------------------------*/
+
+.History {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(img/FB_IMG_1609367316554_Original.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.History {
+
+    padding-top: 5px;
+
+}
+
+.title-1 h1 {
+    color: rgb(26, 5, 5);
+    font-size: 2.2em;
+    font-weight: 700;
+
+}
+
+.p {
+    font-size: 1.2em;
+}
+
+/*-----------------------------*/
+
+
+
+
+
+/* ///////////////////////101010101010101010101010////////////////////////// */
+.c {
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(0, 0, 0);
+}
